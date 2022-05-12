@@ -1,4 +1,4 @@
-# foolnm
+# warnum
 simple python numbers game 
 Juego de relaciones de aciertos entre cadenas numericas considerando:
 - Si los numeros dados concuerdan en el orden dado al numero generado aleatoriamente se puntua como numero muerto.
