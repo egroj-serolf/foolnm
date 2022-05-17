@@ -1,8 +1,8 @@
 # warnum
-simple python numbers game 
+
 Juego de relaciones de aciertos entre cadenas numericas considerando:
-- Si los numeros dados concuerdan en el orden dado al numero generado aleatoriamente se puntua como numero muerto.
-- Si algun numero dado coincide con alguno del numero generado aleatoriamente pero NO en el orden dado se puntua como numero herido siempre y cuando ese numero no se haya contabilidado como muerto antes.
+- Si los numeros dados concuerdan en el orden dado al numero generado aleatoriamente, se puntua como numero muerto.
+- Si algun numero dado coincide con alguno del numero generado aleatoriamente pero NO en el orden dado, se puntua como numero herido.
 - Son 10 intentos.
 
 TODO:
